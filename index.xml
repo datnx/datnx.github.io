@@ -20,7 +20,7 @@
       <link>http://localhost:1313/portfolio/</link>
       <pubDate>Sun, 05 May 2024 17:03:16 +0700</pubDate>
       <guid>http://localhost:1313/portfolio/</guid>
-      <description>Spinning Mug I&amp;rsquo;m creating a Vulkan renderer from scratch to learn graphic programming. Marching Cubes I implemented the marching cubes algorithm and used it to visualize 3d segmentation of medical images. </description>
+      <description>PSV An OpenGL implementation of the algorithm &amp;ldquo;Partitioned Shadow Volume&amp;rdquo; in Julien Gerhards&amp;rsquo; paper. Shadow Map A Vulkan implementation of the popular shadow map algorithm Spinning Mug I&amp;rsquo;m creating a Vulkan renderer from scratch to learn graphic programming. Marching Cubes I implemented the marching cubes algorithm and used it to visualize 3d segmentation of medical images. </description>
     </item>
   </channel>
 </rss>
